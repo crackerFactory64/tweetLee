@@ -1,0 +1,15 @@
+body{
+    
+    background-color: #15202B;
+    color: white;
+    font-family: Helvetica, sans-serif;
+}
+
+#tweetContainer{
+    
+    width: 500px;
+    margin: auto;
+    padding: 25px;
+    
+}
+
